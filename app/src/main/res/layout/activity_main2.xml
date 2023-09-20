@@ -149,27 +149,27 @@
 
         <ImageView
             android:id="@+id/imageView7"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
-            android:background="@drawable/exercise1_background"
-            app:srcCompat="@drawable/exercise1_foreground" />
+            android:background="@color/white"
+            app:srcCompat="@drawable/jumjack" />
 
         <ImageView
             android:id="@+id/imageView9"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
-            android:background="@color/exercise2_background"
-            app:srcCompat="@drawable/exercise2_foreground" />
+            android:background="@color/white"
+            app:srcCompat="@drawable/curlup" />
 
         <ImageView
             android:id="@+id/imageView8"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
-            android:background="@color/exercise3_background"
-            app:srcCompat="@drawable/exercise3_foreground" />
+            android:background="@color/white"
+            app:srcCompat="@drawable/legraise" />
     </LinearLayout>
 
     <LinearLayout
@@ -186,27 +186,27 @@
 
         <ImageView
             android:id="@+id/imageView13"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
-            android:background="@color/exercise4_background"
-            app:srcCompat="@drawable/exercise4_foreground" />
+            android:background="@color/white"
+            app:srcCompat="@drawable/lunge" />
 
         <ImageView
             android:id="@+id/imageView14"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
-            android:background="@color/exercise5_background"
-            app:srcCompat="@drawable/exercise5_foreground" />
+            android:background="@color/white"
+            app:srcCompat="@drawable/pushup" />
 
         <ImageView
             android:id="@+id/imageView15"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
             android:layout_weight="1"
-            android:background="@color/exercise6_background"
-            app:srcCompat="@drawable/exercise6_foreground" />
+            android:background="@color/white"
+            app:srcCompat="@drawable/plank" />
     </LinearLayout>
 
     <RatingBar
